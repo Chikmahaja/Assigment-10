@@ -1,4 +1,4 @@
-## Assigment-10
+## Assignment-10
 # Data visualization with Power BI
 
 ![Customer demoghraphy](https://user-images.githubusercontent.com/127901613/229225264-0bf2c92a-4f1e-4b24-a535-fd96071f9e48.PNG)
